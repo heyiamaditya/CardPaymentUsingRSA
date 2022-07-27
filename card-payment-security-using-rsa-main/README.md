@@ -41,10 +41,7 @@ If key is wrong
 
 
 
-cd existing_repo
-git remote add origin https://gitlab.com/annanyasmathur2017/card-payment-security-using-rsa.git
-git branch -M main
-git push -uf origin main
+
 ```
 
 ## Integrate with your tools
